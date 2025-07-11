@@ -4,6 +4,15 @@
 
 > 專案基於 [BiliBili 教學影片](https://www.bilibili.com/video/BV168j7zCE6D) 修改而成。
 
+## 📖 範例文檔
+
+本專案使用的範例文檔 `full.md` 是多頻段 MIMO 天線系統的論文：
+
+**"A 10 x 10 Multi-Band MIMO Antenna System for LTE, 5G, Wi-Fi 7, and X-Band Communication Applications"**
+
+- **論文來源**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10879367)
+- **研究領域**: 無線通訊、天線設計、MIMO 技術
+- **內容概要**: 介紹了一個支援 LTE、5G、Wi-Fi 7 和 X 波段通訊應用的 10×10 多頻段 MIMO 天線系統
 
 ## 🚀 快速開始
 
