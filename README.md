@@ -19,7 +19,7 @@
 ### 1. 下載專案
 
 ```bash
-git clone https://github.com/yourusername/gemini-rag.git
+git clone https://github.com/gene891212/gemini-rag.git
 cd gemini-rag
 ```
 
